@@ -29,3 +29,5 @@ ARIMA performed pretty similar to every other regression model, it was accurate 
 
 Conclusion
 Trading in a perfect market means that everyone has the same odds thus someone performing random trades should in theory be as successful as any other trader. However markets around the world aren’t close to perfect therefore educated traders and quants can take advantage of the imperfections. In this project I tried to predict the price point of a stock with what I would consider mild success. I am definitely planning build upon what I have built upon here. For the code and the documentation refer to the .mlx or the .pdf file.
+
+Written by Uzay Karadağ
